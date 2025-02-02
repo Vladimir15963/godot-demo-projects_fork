@@ -1,62 +1,47 @@
-# Godot demo projects
+# Godot 示例项目
 
-Each folder containing a `project.godot` file is a demo project meant to
-be used with [Godot Engine](https://godotengine.org), the open source
-2D and 3D game engine.
+每个包含 `project.godot` 文件的文件夹都是一个示例项目，旨在与开源 2D 和 3D 游戏引擎 [Godot Engine](https://godotengine.org) 一起使用。
 
-## Godot versions
+## Godot 版本
 
-- The [`master`](https://github.com/godotengine/godot-demo-projects) branch is compatible with Godot's `master` development branch (next 4.x release).
-- The [`3.x`](https://github.com/godotengine/godot-demo-projects/tree/3.x) branch is compatible with Godot's `3.x` development branch (next 3.x release).
-- The other branches are compatible with the matching stable versions of Godot:
-  - [`4.2`](https://github.com/godotengine/godot-demo-projects/tree/4.2)
-    branch for Godot 4.2.x.
-  - [`4.1`](https://github.com/godotengine/godot-demo-projects/tree/4.1)
-    branch for Godot 4.1.x.
-  - [`4.0`](https://github.com/godotengine/godot-demo-projects/tree/4.0)
-    branch for Godot 4.0.x.
-  - [`3.5`](https://github.com/godotengine/godot-demo-projects/tree/3.5)
-    branch for Godot 3.5.x.
-  - [`3.4`](https://github.com/godotengine/godot-demo-projects/tree/3.4)
-    branch for Godot 3.4.x.
-  - [`3.3`](https://github.com/godotengine/godot-demo-projects/tree/3.3)
-    branch for Godot 3.3.x.
-  - [`3.2`](https://github.com/godotengine/godot-demo-projects/tree/3.2)
-    branch for Godot 3.2.x.
-  - [`3.1`](https://github.com/godotengine/godot-demo-projects/tree/3.1)
-    branch for Godot 3.1.x.
-  - [`3.0`](https://github.com/godotengine/godot-demo-projects/tree/3.0)
-    branch for Godot 3.0.x.
-  - [`2.1`](https://github.com/godotengine/godot-demo-projects/tree/2.1)
-    branch for Godot 2.1.x.
+- [`master`](https://github.com/godotengine/godot-demo-projects) 分支与 Godot 的 `master` 开发分支（下一个 4.x 版本）兼容。
+- [`3.x`](https://github.com/godotengine/godot-demo-projects/tree/3.x) 分支与 Godot 的 `3.x` 开发分支（下一个 3.x 版本）兼容。
+- 其他分支与 Godot 的相应稳定版本兼容：
+  - [`4.2`](https://github.com/godotengine/godot-demo-projects/tree/4.2) 分支适用于 Godot 4.2.x。
+  - [`4.1`](https://github.com/godotengine/godot-demo-projects/tree/4.1) 分支适用于 Godot 4.1.x。
+  - [`4.0`](https://github.com/godotengine/godot-demo-projects/tree/4.0) 分支适用于 Godot 4.0.x。
+  - [`3.5`](https://github.com/godotengine/godot-demo-projects/tree/3.5) 分支适用于 Godot 3.5.x。
+  - [`3.4`](https://github.com/godotengine/godot-demo-projects/tree/3.4) 分支适用于 Godot 3.4.x。
+  - [`3.3`](https://github.com/godotengine/godot-demo-projects/tree/3.3) 分支适用于 Godot 3.3.x。
+  - [`3.2`](https://github.com/godotengine/godot-demo-projects/tree/3.2) 分支适用于 Godot 3.2.x。
+  - [`3.1`](https://github.com/godotengine/godot-demo-projects/tree/3.1) 分支适用于 Godot 3.1.x。
+  - [`3.0`](https://github.com/godotengine/godot-demo-projects/tree/3.0) 分支适用于 Godot 3.0.x。
+  - [`2.1`](https://github.com/godotengine/godot-demo-projects/tree/2.1) 分支适用于 Godot 2.1.x。
 
-## Importing all demos
+## 导入所有示例
 
-To import all demos at once in the project manager:
+要在项目管理器中一次性导入所有示例：
 
-- Clone this repository or [download a ZIP archive](https://github.com/godotengine/godot-demo-projects/archive/master.zip).
-  - If you've downloaded a ZIP archive, extract it somewhere.
-- Open the Godot project manager and click the **Scan** button on the right.
-- Choose the path to the folder containing all demos.
-- All demos should now appear in the project manager.
+- 克隆此仓库或[下载 ZIP 压缩包](https://github.com/godotengine/godot-demo-projects/archive/master.zip)。
+  - 如果下载了 ZIP 压缩包，请将其解压到某个位置。
+- 打开 Godot 项目管理器，点击右侧的 **Scan** 按钮。
+- 选择包含所有示例的文件夹路径。
+- 所有示例现在应该会出现在项目管理器中。
 
-## Try the demos in your browser
+## 在浏览器中尝试示例
 
-Most of the demos are exported to GitHub Pages. They can be viewed
-[here](https://godotengine.github.io/godot-demo-projects/).
+大多数示例已导出到 GitHub Pages。您可以[在此处](https://godotengine.github.io/godot-demo-projects/)查看它们。
 
-**Note:** The performance of Godot in a browser is lower than natively on
-desktop. For the best performance, consider downloading the demos.
+**注意：** Godot 在浏览器中的性能低于桌面原生性能。为了获得最佳性能，请考虑下载示例。
 
-## Useful links
+## 有用的链接
 
-- [Main website](https://godotengine.org)
-- [Source code](https://github.com/godotengine/godot)
-- [Documentation](http://docs.godotengine.org)
-- [Community hub](https://godotengine.org/community)
-- [TPS demo](https://github.com/godotengine/tps-demo)
+- [官方网站](https://godotengine.org)
+- [源代码](https://github.com/godotengine/godot)
+- [文档](http://docs.godotengine.org)
+- [社区中心](https://godotengine.org/community)
+- [TPS 示例](https://github.com/godotengine/tps-demo)
 
-## License
+## 许可证
 
-Those demos are distributed under the terms of the MIT license, as
-described in the [LICENSE.md](LICENSE.md) file.
+这些示例根据 MIT 许可证的条款分发，详情请参阅 [LICENSE.md](LICENSE.md) 文件。
