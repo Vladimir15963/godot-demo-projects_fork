@@ -1,8 +1,10 @@
-# 2D Demos
+# 2D 示例
 
-These demos are all 2D, but otherwise do not have a common theme.
+这些示例均为 2D 项目，但没有统一的主题。
 
-Languages: Most have GDScript, some have
-[Godot shader language](https://docs.godotengine.org/en/latest/tutorials/shaders/shader_reference/shading_language.html)
+**语言**：大多数示例使用 GDScript，部分示例使用 [Godot 着色器语言](https://docs.godotengine.org/en/latest/tutorials/shaders/shader_reference/shading_language.html)。
 
-Renderers: Glow for 2D and Physics Platformer use Forward+, 2D Particles uses Mobile, and the rest use Compatibility
+**渲染器**：  
+- **Glow for 2D** 和 **Physics Platformer** 使用 Forward+ 渲染器。  
+- **2D Particles** 使用 Mobile 渲染器。  
+- 其余示例使用 Compatibility 渲染器。
