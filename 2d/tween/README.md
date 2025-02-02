@@ -1,13 +1,13 @@
-# Tween Interpolation
+# 补间插值
 
-A demo showing advanced tween usage.
+一个展示高级补间功能使用的示例。
 
-Language: GDScript
+**语言**：GDScript
 
-Renderer: Compatibility
+**渲染器**：Compatibility
 
-Check out this demo on the asset library: https://godotengine.org/asset-library/asset/2733
+在资源库中查看此示例：https://godotengine.org/asset-library/asset/2733
 
-## Screenshots
+## 截图
 
-![Screenshot](screenshots/tween.png)
+![截图](screenshots/tween.png)
